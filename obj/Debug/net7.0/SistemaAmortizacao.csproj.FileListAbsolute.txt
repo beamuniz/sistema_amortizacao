@@ -1,0 +1,15 @@
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\SistemaAmortizacao.exe
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\SistemaAmortizacao.deps.json
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\SistemaAmortizacao.runtimeconfig.json
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\SistemaAmortizacao.dll
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\SistemaAmortizacao.pdb
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.csproj.AssemblyReference.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.AssemblyInfoInputs.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.AssemblyInfo.cs
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.csproj.CoreCompileInputs.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.dll
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\refint\SistemaAmortizacao.dll
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.pdb
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\SistemaAmortizacao.genruntimeconfig.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\ref\SistemaAmortizacao.dll

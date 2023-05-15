@@ -1,0 +1,30 @@
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.exe
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.deps.json
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.runtimeconfig.json
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.dll
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.pdb
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.csproj.AssemblyReference.cache
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.AssemblyInfoInputs.cache
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.AssemblyInfo.cs
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.csproj.CoreCompileInputs.cache
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.dll
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\refint\TrabalhoMatematica.dll
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.pdb
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.genruntimeconfig.cache
+D:\IFSP\Trabalho Matemática\TrabalhoMatematica\TrabalhoMatematica\obj\Debug\net7.0\ref\TrabalhoMatematica.dll
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.exe
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.deps.json
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.runtimeconfig.json
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.dll
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\bin\Debug\net7.0\TrabalhoMatematica.pdb
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.csproj.AssemblyReference.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.AssemblyInfoInputs.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.AssemblyInfo.cs
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.csproj.CoreCompileInputs.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.dll
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\refint\TrabalhoMatematica.dll
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.pdb
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\TrabalhoMatematica.genruntimeconfig.cache
+D:\IFSP\Trabalho Matemática\Trabalho Matematica\TrabalhoMatematica\obj\Debug\net7.0\ref\TrabalhoMatematica.dll
